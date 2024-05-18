@@ -1,9 +1,9 @@
-# Image Forgery and Rumour Detecion
+# IMAGE FORGERY AND RUMOUR DETECTION
 
-**Overview**
+**OVERVIEW**
 This software is designed to detect image forgery and distinguish between true and false rumors. It combines advanced image processing techniques with natural language processing (NLP) to ensure the integrity of visual and textual content. The project includes two primary components: image forgery detection and rumor detection.
 
-**Features**
+**FEATURES**
  * Image Forgery Detection
 1. JPEG Compression Detection: Identifies inconsistencies in JPEG compression artifacts to detect tampering.
 2. CFA Artifact Detection: Uses Color Filter Array (CFA) artifacts to reveal forgeries.
@@ -18,3 +18,50 @@ This software is designed to detect image forgery and distinguish between true a
 1. Classification and Regression: Utilizes machine learning models for classifying rumors and predicting their spread.
 2. Decision Trees: Implements decision tree algorithms to enhance the accuracy of rumor detection.
 3. TF-IDF Vectors: Employs Term Frequency-Inverse Document Frequency (TF-IDF) vectors for textual feature extraction.
+
+ **Technical Details**
+ * Technologies Used:
+1. Python: Main programming language for both image and text processing.
+2. OpenCV: For image processing tasks.
+3. scikit-learn: For implementing machine learning algorithms.
+4. TensorFlow: For deep learning models in rumor detection.
+5. Natural Language Toolkit (NLTK): For NLP tasks in rumor detection.
+6. Flask: For creating a web interface for the software.
+
+
+**USUAGE**
+1. First download all the files uploaded and put them in a folder
+2. Make a folder named 'Image Forgery' and put the mentioned below files in that folder for the image forgery part
+   -`FrogeryDection.py`
+   -`GUI.py`
+   -`Metadata_analysis.txt`
+   -`Rumour_detection.py`
+   -`hex.py`
+   -`hex_viewer.txt`
+   -`image_processing.py`
+   -`main.py`
+   -`noise_variance.py`
+   -`output.png`
+   -`temp.jpg`
+   -`tempCodeRunnerFile.py`
+   -`copy_move_cfa.py`
+   -`double_jpeg_compression.py`
+   -`encode_image.py`
+4. Make a folder name 'venv' and put the downloaded folders in that folder:
+   -`Lib.zip`
+   -`Script.zip` and pyvenw.cfg
+5. Make a folder name 'input' and put the below mentioned downloaded folders in that folder:
+  - `CFA-Aritifiact Dection_input.zip`
+  - `Compression-Detection_input.zip`
+  - `Copy-Move_input.zip`
+  - `Error-Level Analysis_input.zip`
+  - `Image Extraction_input.zip`
+  - `Metadata Analysis_input.zip`
+  - `Noise inconsistensy_input.zip`
+  - `String Exctraction_input.zip`
+6. Put the Folders 'venv' and 'input' in the 'Image Forgery folder along with `_pycache_.zip` and `images_IF`
+7. It should look like this
+![image](https://github.com/Moitreyee-Das/Fake-Image-and-Rumour-detection/assets/166435448/a50d4c3e-d9bc-41e9-a915-561ea053800d)
+
+8. Open the terminal and run the `GUI.py` file
+   
