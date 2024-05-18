@@ -32,24 +32,24 @@ This software is designed to detect image forgery and distinguish between true a
 **USUAGE**
 1. First download all the files uploaded and put them in a folder
 2. Make a folder named 'Image Forgery' and put the mentioned below files in that folder for the image forgery part
-   -`FrogeryDection.py`
-   -`GUI.py`
-   -`Metadata_analysis.txt`
-   -`Rumour_detection.py`
-   -`hex.py`
-   -`hex_viewer.txt`
-   -`image_processing.py`
-   -`main.py`
-   -`noise_variance.py`
-   -`output.png`
-   -`temp.jpg`
-   -`tempCodeRunnerFile.py`
-   -`copy_move_cfa.py`
-   -`double_jpeg_compression.py`
-   -`encode_image.py`
+   - `FrogeryDection.py`
+   - `GUI.py`
+   - `Metadata_analysis.txt`
+   - `Rumour_detection.py`
+   - `hex.py`
+   - `hex_viewer.txt`
+   - `image_processing.py`
+   - `main.py`
+   - `noise_variance.py`
+   - `output.png`
+   - `temp.jpg`
+   - `tempCodeRunnerFile.py`
+   - `copy_move_cfa.py`
+   - `double_jpeg_compression.py`
+   - `encode_image.py`
 4. Make a folder name 'venv' and put the downloaded folders in that folder:
-   -`Lib.zip`
-   -`Script.zip` and pyvenw.cfg
+   - `Lib.zip`
+   - `Script.zip` and pyvenw.cfg
 5. Make a folder name 'input' and put the below mentioned downloaded folders in that folder:
   - `CFA-Aritifiact Dection_input.zip`
   - `Compression-Detection_input.zip`
