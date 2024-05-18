@@ -1,0 +1,12 @@
+ImageWidth : 1080
+ImageLength : 1440
+BitsPerSample : (8, 8, 8)
+PhotometricInterpretation : 2
+ResolutionUnit : 2
+ExifOffset : 236
+Software : Adobe Photoshop CC 2019 (Windows)
+Orientation : 1
+DateTime : 2022:02:09 15:20:44
+SamplesPerPixel : 3
+XResolution : 72.0
+YResolution : 72.0
