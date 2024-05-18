@@ -1,9 +1,9 @@
 # Image Forgery and Rumour Detecion
 
-** Overview **
+**Overview**
 This software is designed to detect image forgery and distinguish between true and false rumors. It combines advanced image processing techniques with natural language processing (NLP) to ensure the integrity of visual and textual content. The project includes two primary components: image forgery detection and rumor detection.
 
-** Features **
+**Features**
  * Image Forgery Detection
 1. JPEG Compression Detection: Identifies inconsistencies in JPEG compression artifacts to detect tampering.
 2. CFA Artifact Detection: Uses Color Filter Array (CFA) artifacts to reveal forgeries.
