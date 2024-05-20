@@ -18,7 +18,8 @@ This software is designed to detect image forgery and distinguish between true a
 1. Classification and Regression: Utilizes machine learning models for classifying rumors and predicting their spread.
 2. Decision Trees: Implements decision tree algorithms to enhance the accuracy of rumor detection.
 3. TF-IDF Vectors: Employs Term Frequency-Inverse Document Frequency (TF-IDF) vectors for textual feature extraction.
-
+4. Here, we will upload two datasets, "true" and "false." When we input any news into our software, it will determine whether the news is true, false, or not present in the datasets.
+   
  **Technical Details**
  * Technologies Used:
 1. Python: Main programming language for both image and text processing.
@@ -79,5 +80,42 @@ It should look like this
 
 10. The folder `scr.zip` contains all the files so open that to access and use the react files.
 
-11. 
+11. Now we move on the the rumour detection part of the project:
+12. The folder `data` contains two csv files, Book1 and Book2 containing the true and false dataset
+13. Add `Rumour_Detection.zip` and `.ipnyb_checkpoints` to the main file
+14. The rumour detection is connected to the frontend so no need to do anything extra to run it
+15. Now everything is done and you are able to run your program
+
+I am adding ppt file in case anyone needs it.
+
+**Example**
+
+* Rumour Detection
+  ![image](https://github.com/Moitreyee-Das/Fake-Image-and-Rumour-detection/assets/166435448/faa54902-50e9-41bd-a8d8-367fa5270f69)
+
+![image](https://github.com/Moitreyee-Das/Fake-Image-and-Rumour-detection/assets/166435448/0b47475f-2753-4305-972b-83dbc8962df4)
+
+![image](https://github.com/Moitreyee-Das/Fake-Image-and-Rumour-detection/assets/166435448/ac030285-468a-41c5-9e1b-a1a1fc4f9e54)
+
+* Image Forgery
+  ![image](https://github.com/Moitreyee-Das/Fake-Image-and-Rumour-detection/assets/166435448/31d4743d-bf33-43d6-9a3b-604b09917469)
+
+  ![image](https://github.com/Moitreyee-Das/Fake-Image-and-Rumour-detection/assets/166435448/e73a5352-e6bd-48c9-863d-e76d173eabad)
+
+  ![image](https://github.com/Moitreyee-Das/Fake-Image-and-Rumour-detection/assets/166435448/fcc96803-0158-42ce-8075-8ce194837a34)
+
+  ![image](https://github.com/Moitreyee-Das/Fake-Image-and-Rumour-detection/assets/166435448/9148493b-231b-479a-a74b-f71a40613919)
+
+  ![image](https://github.com/Moitreyee-Das/Fake-Image-and-Rumour-detection/assets/166435448/9eb92b00-725a-4fd5-9c51-cad1f3f0d4ce)
+
+  ![image](https://github.com/Moitreyee-Das/Fake-Image-and-Rumour-detection/assets/166435448/34ae309d-1fd3-4299-85bf-02efc244f42e)
+
+
+
+
+
+
+
+
+
 
