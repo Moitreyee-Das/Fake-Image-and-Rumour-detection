@@ -60,8 +60,24 @@ This software is designed to detect image forgery and distinguish between true a
   - `Noise inconsistensy_input.zip`
   - `String Exctraction_input.zip`
 6. Put the Folders 'venv' and 'input' in the 'Image Forgery folder along with `_pycache_.zip` and `images_IF`
-7. It should look like this
+It should look like this
 ![image](https://github.com/Moitreyee-Das/Fake-Image-and-Rumour-detection/assets/166435448/a50d4c3e-d9bc-41e9-a915-561ea053800d)
 
-8. Open the terminal and run the `GUI.py` file
-   
+7. Open the terminal and run the `GUI.py` file
+
+
+8. Now for the front end part of the project, name a folder 'client' and put the following folders in that folder:
+    - `Images.zip`
+    - `package.json`
+    - `package-lock.json`
+    - `public.zip`
+    - `scr.zip`
+    - `gitignore`
+9. Make a folder name `node_modules` and put all the node_modules folders in that folder
+It should look like this
+![image](https://github.com/Moitreyee-Das/Fake-Image-and-Rumour-detection/assets/166435448/0d35b629-a33e-4420-8f11-68a3477d8e19)
+
+10. The folder `scr.zip` contains all the files so open that to access and use the react files.
+
+11. 
+
