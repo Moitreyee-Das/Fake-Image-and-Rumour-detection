@@ -99,6 +99,7 @@ I am adding ppt file in case anyone needs it.
 
 ![image](https://github.com/Moitreyee-Das/Fake-Image-and-Rumour-detection/assets/166435448/ac030285-468a-41c5-9e1b-a1a1fc4f9e54)
 
+
 * Image Forgery
 
   
