@@ -91,6 +91,8 @@ I am adding ppt file in case anyone needs it.
 **Example**
 
 * Rumour Detection
+
+  
   ![image](https://github.com/Moitreyee-Das/Fake-Image-and-Rumour-detection/assets/166435448/faa54902-50e9-41bd-a8d8-367fa5270f69)
 
 ![image](https://github.com/Moitreyee-Das/Fake-Image-and-Rumour-detection/assets/166435448/0b47475f-2753-4305-972b-83dbc8962df4)
@@ -98,6 +100,8 @@ I am adding ppt file in case anyone needs it.
 ![image](https://github.com/Moitreyee-Das/Fake-Image-and-Rumour-detection/assets/166435448/ac030285-468a-41c5-9e1b-a1a1fc4f9e54)
 
 * Image Forgery
+
+  
   ![image](https://github.com/Moitreyee-Das/Fake-Image-and-Rumour-detection/assets/166435448/31d4743d-bf33-43d6-9a3b-604b09917469)
 
   ![image](https://github.com/Moitreyee-Das/Fake-Image-and-Rumour-detection/assets/166435448/e73a5352-e6bd-48c9-863d-e76d173eabad)
